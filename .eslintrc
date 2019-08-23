@@ -1,0 +1,6 @@
+{
+  "extends": "jubic-typescript",
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  }
+}
