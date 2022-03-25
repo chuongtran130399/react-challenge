@@ -1,5 +1,5 @@
 import App from './App'
-import HelloWorld from './HelloWorld'
+import HelloWorld from './ValidationForm'
 
 export {
   App,
